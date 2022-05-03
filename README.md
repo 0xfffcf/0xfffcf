@@ -9,12 +9,12 @@
 <p align=center>
     <b>🍇 Follow me here :</b><br/>
     <a href="https://github.com/0xfffcf">
-        <img src="https://icon-library.com/images/icon-github/icon-github-28.jpg" title="My github" alt="github's logo" width="28px"/>
+        <img src="https://icon-library.com/images/icon-github/icon-github-28.jpg" title="My github" alt="github's logo" width="100px"/>
     </a>
     </a>
     <br/>
     <br/>
-    <img src="https://media2.giphy.com/media/h5NLPVn3rg0Rq/giphy.gif?cid=ecf05e47bq4kzmx2bqw5clt95mtn7h173d89k7rasjzqy2q8&rid=giphy.gif&ct=g" alt="Zero two gif"/>
+    <img src="https://media2.giphy.com/media/h5NLPVn3rg0Rq/giphy.gif?cid=ecf05e47bq4kzmx2bqw5clt95mtn7h173d89k7rasjzqy2q8&rid=giphy.gif&ct=g" alt="Reaper gif"/>
 </p>
 
 ---
@@ -63,5 +63,3 @@ Looking for a Programmer job.
 <p align="center"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xfffcf&layout=compact&show_icons=true&title_color=7143de&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 </p>
-
-
