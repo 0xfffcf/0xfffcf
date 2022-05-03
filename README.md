@@ -28,7 +28,7 @@ Looking for a Programmer job.
 
 <h1 align="center">LANGUAGE</h1>
 
-```
+```c
 #include <stdio.h>
 
 char languages[] = {
@@ -52,7 +52,7 @@ Powershell
 ```
 <h1 align="center">LEARNING</h1>
 
-```
+```c
 #include <stdio.h>
 
 char languagesLearning[] = {
