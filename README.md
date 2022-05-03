@@ -28,7 +28,7 @@ Looking for a Programmer job.
 
 <h1 align="center">LANGUAGE</h1>
 
-<p align="left">
+```
 #include <stdio.h>
 
 char languages[] = {
@@ -39,9 +39,9 @@ char languages[] = {
 for (char i = 0; i < sizeof(languages); i++) {
 	printf("%s", languages[i]);
 }
-
-<h1 align="left">LEARN</h1>
-
+```
+<h1 align="center">LEARN</h1>
+```
 #include <stdio.h>
 
 char languagesLearning[] = {
@@ -51,7 +51,7 @@ char languagesLearning[] = {
 for (char i = 0; i < sizeof(languagesLearning); i++) {
 	printf("%s", languages[i]);
 }
-
+```
 </p>
 
 ---
