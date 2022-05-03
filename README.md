@@ -12,7 +12,7 @@
         <img src="https://icon-library.com/images/icon-github/icon-github-28.jpg" title="My github" alt="github's logo" width="100px"/>
     </a>
     <a href="http://65.108.38.77/">
-	    <img src="https://i.kym-cdn.com/photos/images/original/001/292/055/7b4.png" title="My website" alt="tor logo" width="100px"/>
+	    <img src="https://i.kym-cdn.com/photos/images/original/001/292/055/7b4.png" title="My website" alt="tor logo" width="20px"/>
     </a>
     <br/>
     <br/>
