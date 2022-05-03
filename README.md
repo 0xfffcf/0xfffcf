@@ -33,7 +33,7 @@ Looking for a Programmer job.
 
 int main(void) {
     char languages[] = {
-        "C", "C++", "Css", "Golang",
+        "C", "C++", "Css", "Sql" "Golang",
 	"Html", "Java", "Python", "Powershell"
     };
 
@@ -47,6 +47,7 @@ OUTPUT:
 C
 C++
 Css
+Sql
 Golang
 Html
 Java
@@ -60,7 +61,7 @@ Powershell
 
 int main(void) {
     char languagesLearning[] = {
-        "ASM", "Bash"
+        "Asm", "Bash"
     };
 
     for (char i = 0; i < sizeof(languagesLearning); i++) {
@@ -70,7 +71,7 @@ int main(void) {
 }
 
 OUTPUT:
-ASM
+Asm
 Bash
 ```
 
