@@ -37,10 +37,21 @@ char languages[] = {
 };
 
 for (char i = 0; i < sizeof(languages); i++) {
-	printf("%s", languages[i]);
+	printf("%s\n", languages[i]);
 }
+
+OUTPUT:
+C
+C++
+Css
+Golang
+Html
+Java
+Python
+Powershell
 ```
 <h1 align="center">LEARN</h1>
+
 ```
 #include <stdio.h>
 
