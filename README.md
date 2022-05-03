@@ -9,7 +9,7 @@
 <p align=center>
     <b>🍇 Follow me here :</b><br/>
     <a href="https://github.com/0xfffcf">
-        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="My github" alt="github's logo" width="100px"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="My github" alt="github's logo" width="30px"/>
     </a>
     <a href="http://65.108.38.77/">
 	    <img src="https://www.shareicon.net/data/2015/09/16/101919_browser_512x512.png" title="My website" alt="tor logo" width="30px"/>
