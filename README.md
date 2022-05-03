@@ -31,13 +31,16 @@ Looking for a Programmer job.
 ```c
 #include <stdio.h>
 
-char languages[] = {
-	"C", "C++", "Css", "Golang",
+int main(void) {
+    char languages[] = {
+        "C", "C++", "Css", "Golang",
 	"Html", "Java", "Python", "Powershell"
-};
+    };
 
-for (char i = 0; i < sizeof(languages); i++) {
+    for (char i = 0; i < sizeof(languages); i++) {
 	printf("%s\n", languages[i]);
+    }
+    return 0;
 }
 
 OUTPUT:
@@ -55,12 +58,15 @@ Powershell
 ```c
 #include <stdio.h>
 
-char languagesLearning[] = {
-    "ASM", "Bash"
-};
+int main(void) {
+    char languagesLearning[] = {
+        "ASM", "Bash"
+    };
 
-for (char i = 0; i < sizeof(languagesLearning); i++) {
+    for (char i = 0; i < sizeof(languagesLearning); i++) {
 	printf("%s\n", languages[i]);
+    }
+    return 0;
 }
 
 OUTPUT:
