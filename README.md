@@ -50,7 +50,7 @@ Java
 Python
 Powershell
 ```
-<h1 align="center">LEARN</h1>
+<h1 align="center">LEARNING</h1>
 
 ```
 #include <stdio.h>
@@ -60,8 +60,12 @@ char languagesLearning[] = {
 };
 
 for (char i = 0; i < sizeof(languagesLearning); i++) {
-	printf("%s", languages[i]);
+	printf("%s\n", languages[i]);
 }
+
+OUTPUT:
+ASM
+Bash
 ```
 
 ---
