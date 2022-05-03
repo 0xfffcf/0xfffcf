@@ -52,7 +52,6 @@ for (char i = 0; i < sizeof(languagesLearning); i++) {
 	printf("%s", languages[i]);
 }
 ```
-</p>
 
 ---
 
