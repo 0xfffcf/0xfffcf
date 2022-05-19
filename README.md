@@ -23,7 +23,6 @@
 
 ```
 Malware Developer.
-Looking for a Programmer job.
 ```
 
 ---
