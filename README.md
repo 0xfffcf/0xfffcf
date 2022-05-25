@@ -12,7 +12,7 @@
         <img src="https://miro.medium.com/max/512/1*ror_TOxcV3u97Cwk8JgH-A@2x.png" title="My github" alt="github's logo" width="30px"/>
     </a>
     <a href="http://65.108.38.77/">
-	    <img src="https://www.shareicon.net/data/2015/09/16/101919_browser_512x512.png" title="My website" alt="tor logo" width="30px"/>
+        <img src="https://www.shareicon.net/data/2015/09/16/101919_browser_512x512.png" title="My website" alt="tor logo" width="30px"/>
     </a>
     <br/>
     <br/>
@@ -35,11 +35,11 @@ Malware Developer.
 int main(void) {
     char languages[] = {
         "C", "C++", "Css", "Sql" "Golang",
-	"Html", "Java", "Python", "Powershell"
+    "Html", "Java", "Python", "Powershell"
     };
 
     for (char i = 0; i < sizeof(languages); i++) {
-	printf("%s\n", languages[i]);
+    printf("%s\n", languages[i]);
     }
     return 0;
 }
@@ -55,25 +55,26 @@ Java
 Python
 Powershell
 ```
+
 <h1 align="center">LEARNING</h1>
 
-```c
-#include <stdio.h>
+```go
+import "fmt"
 
-int main(void) {
-    char languagesLearning[] = {
-        "Asm", "Bash"
-    };
-
-    for (char i = 0; i < sizeof(languagesLearning); i++) {
-	printf("%s\n", languages[i]);
+func main() {
+    learningLanguages := [3]string {
+        "Asm", "Bash", "NodeJS"
     }
-    return 0;
+
+    for _, language := range learningLanguages  {
+        fmt.Println(language)
+    }
 }
 
 OUTPUT:
 Asm
 Bash
+NodeJS
 ```
 
 ---
