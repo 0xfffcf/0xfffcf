@@ -35,11 +35,11 @@ Malware Developer.
 int main(void) {
     char languages[] = {
         "C", "C++", "Css", "Sql" "Golang",
-    "Html", "Java", "Python", "Powershell"
+    "Html", "Java", "Python", "Powershell", "NodeJS", "Bash"
     };
 
     for (char i = 0; i < sizeof(languages); i++) {
-    printf("%s\n", languages[i]);
+        printf("%s\n", languages[i]);
     }
     return 0;
 }
@@ -54,6 +54,8 @@ Html
 Java
 Python
 Powershell
+NodeJS
+Bash
 ```
 
 <h1 align="center">LEARNING</h1>
@@ -62,8 +64,8 @@ Powershell
 import "fmt"
 
 func main() {
-    learningLanguages := [3]string {
-        "Asm", "Bash", "NodeJS"
+    learningLanguages := [1]string {
+        "Asm"
     }
 
     for _, language := range learningLanguages  {
@@ -73,8 +75,6 @@ func main() {
 
 OUTPUT:
 Asm
-Bash
-NodeJS
 ```
 
 ---
