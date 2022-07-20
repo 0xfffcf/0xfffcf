@@ -22,7 +22,7 @@
 ---
 
 ```
-Malware Developer.
+Malware - FullStack Developer.
 ```
 
 ---
@@ -34,8 +34,8 @@ Malware Developer.
 
 int main(void) {
     char languages[] = {
-        "C", "C++", "Css", "Sql" "Golang",
-    "Html", "Java", "Python", "Powershell", "NodeJS", "Bash"
+        "C", "C++", "Css (Scss)", "Sql" "Golang",
+    "Html", "Java", "Python", "Powershell", "NodeJS (TypeScript)", "Bash"
     };
 
     for (char i = 0; i < sizeof(languages); i++) {
@@ -47,14 +47,14 @@ int main(void) {
 OUTPUT:
 C
 C++
-Css
+Css (Scss)
 Sql
 Golang
 Html
 Java
 Python
 Powershell
-NodeJS
+NodeJS (TypeScript)
 Bash
 ```
 
